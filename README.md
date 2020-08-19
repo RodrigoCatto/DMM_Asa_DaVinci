@@ -1,8 +1,8 @@
 # DMM_Asa_DaVinci
-Projeto de Despositivos que Movem o Mundo
+**Projeto de Despositivos que Movem o Mundo**
 
-Arthur Lee
-Rodrigo Lopes
+**Autores**
+Arthur Lee | Rodrigo Lopes
 
 **Mecanismo:**
 -Asa de Da Vinci
